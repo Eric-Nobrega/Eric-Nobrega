@@ -2,7 +2,7 @@
 
 ---
 
-My name is Eric, and I am a passionate aspiring software developer. You can find my portfolio website here: 
+My name is Eric, and I am a passionate aspiring software developer. You can find my portfolio website here: https://eric-nobrega.github.io/portfolio-website/
 
 
 🔭 I’m currently working on: A Full Stack personal finance application
