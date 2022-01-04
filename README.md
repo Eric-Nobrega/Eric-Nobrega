@@ -8,7 +8,7 @@ My name is Eric, and I am a passionate aspiring software developer. You can find
 🔭 I’m currently working on: A Full Stack personal finance application
  
  
-🌱 I’m currently learning: Java and Web Development
+:books: I’m currently learning: Java and Web Development
  
  
 📫 How to reach me: ericnobrega02@gmail.com
