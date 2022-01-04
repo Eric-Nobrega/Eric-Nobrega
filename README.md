@@ -19,5 +19,5 @@ My name is Eric, and I am a passionate aspiring software developer. You can find
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Nobrega&theme=tokyonight&layout=compact&hide=css" width="350" height="170"/>
 </a>
 <a href="https://github.com/Eric-Nobrega/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Eric-Nobrega&theme=tokyonight&show_icons=true" width="350" height="170"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eric-Nobrega&theme=tokyonight&show_icons=true" width="350" height="170"/>
 </a>
