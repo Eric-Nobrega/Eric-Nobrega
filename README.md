@@ -5,7 +5,7 @@
 My name is Eric, and I am a passionate aspiring software developer. You can find my portfolio website here: https://eric-nobrega.github.io/portfolio-website/
 
 
-🔭 I’m currently working on: API Cryptocurrency Comparison Application
+🔭 I’m currently working on: Personal Finance Tool using ReactJs & Bootstrap
  
  
 :books: I’m currently learning: Java and Web Development (Javascript & React)
