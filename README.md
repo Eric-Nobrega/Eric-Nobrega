@@ -5,7 +5,7 @@
 My name is Eric, and I am a passionate aspiring software developer. You can find my portfolio website here: https://eric-nobrega.github.io/portfolio-website/
 
 
-🔭 I’m currently working on: Personal Finance Tool using ReactJS
+🔭 I’m currently working on: Personal Finance Tool using ReactJS (https://github.com/Eric-Nobrega/EBudget-v2)
  
  
 :books: I’m currently learning: Java & Web Development
