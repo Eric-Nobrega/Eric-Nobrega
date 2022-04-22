@@ -8,7 +8,7 @@ My name is Eric, and I am a passionate aspiring software developer. You can find
 🔭 I’m currently working on: Personal Finance Application using ReactJS (https://github.com/Eric-Nobrega/EBudget-v2)
  
  
-:books: I’m currently learning: Java & Fullstack Development
+:books: I’m currently learning: Front-End Web Development
  
  
 📫 How to reach me: ericnobrega02@gmail.com
