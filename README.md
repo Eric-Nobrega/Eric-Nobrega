@@ -8,7 +8,7 @@ My name is Eric, and I am a passionate aspiring software developer. You can find
 🔭 I’m currently working on: Property Portfolio Management Application (React-Native)
  
  
-:books: I’m currently learning: Front-End Web Development
+:books: I’m currently learning: Front-End Web Development & Mobile Application Development
  
  
 📫 How to reach me: ericnobrega02@gmail.com
