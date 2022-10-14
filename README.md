@@ -2,7 +2,7 @@
 
 ---
 
-My name is Eric, and I am a passionate aspiring software developer. You can find my portfolio website here: https://eric-nobrega.github.io/portfolio-website/
+My name is Eric, and I am a passionate aspiring software developer. You can find my portfolio website here: https://ericnobrega.netlify.app/
 
 
 🔭 I’m currently working on: Property Portfolio Management Application (React-Native)
