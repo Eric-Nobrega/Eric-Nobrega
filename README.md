@@ -2,16 +2,14 @@
 
 ---
 
-My name is Eric, and I am a passionate aspiring software developer. You can find my portfolio website here: https://ericnobrega.netlify.app/
+My name is Eric, and I am a software engineer (front-end focused). 
 
+🔭 I’m currently working on: [devTech23](https://eric-nobrega.github.io/devtech23/) 
 
-🔭 I’m currently working on: Property Portfolio Management Application (React-Native)
- 
- 
-:books: I’m currently learning: TypeScript, NodeJS, Python, Advanced Data Structures & Algorithms
- 
- 
-📫 How to reach me: ericnobrega02@gmail.com
+Contact Details & Links
+Email: ericnobrega02@gmail.com
+Website: https://ericnobrega.netlify.app/
+Tech Blog: https://eric-nobrega.github.io/devtech23/
 
 ---
 
